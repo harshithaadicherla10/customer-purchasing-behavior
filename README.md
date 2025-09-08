@@ -1,5 +1,10 @@
 # 📊 Customer Purchasing Behavior Analysis  
 
+**Portfolio Description:**  
+This project analyzes the UCI Online Retail dataset to uncover customer purchasing patterns and insights. Using Python and SQL, I performed data cleaning, explored top products and customers, analyzed monthly revenue trends, and segmented customers using RFM analysis. Visualizations and actionable insights are included to support data-driven business decisions.
+
+---
+
 ## 📌 Project Overview  
 This project analyzes the **UCI Online Retail dataset** to understand **customer purchasing behavior**.  
 I used **Python (Pandas, Numpy, Matplotlib, Seaborn, SQLite3)** for data cleaning, SQL queries, and visualization.  
@@ -22,15 +27,22 @@ The goals of this project are:
 ## 📂 Project Structure
 Customer_Purchasing_Behavior/
 │
-├── customer_purchasing_behaviour.ipynb # Jupyter Notebook with analysis
-├── README.md # Project documentation
-├── requirements.txt # Python libraries
-├── Online Retail.xlsx # Dataset
-└── images/
-├── Top_10_by_revenue.png
-├── Top_10_by_revenue(1).png
-└── monthly_revenue_trend.png
 
+├── customer_purchasing_behaviour.ipynb # Jupyter Notebook with analysis
+
+├── README.md # Project documentation
+
+├── requirements.txt # Python libraries
+
+├── Online Retail.xlsx # Dataset
+
+└── images/
+
+├── Top_10_by_revenue.png
+
+├── Top_10_by_revenue(1).png
+
+└── monthly_revenue_trend.png
 
 ---
 
@@ -87,3 +99,5 @@ jupyter notebook customer_purchasing_behaviour.ipynb
 
 ## 🙋 Author
 **Harshitha Adicherla**
+
+📬 Feel free to explore, fork, or leave feedback!
