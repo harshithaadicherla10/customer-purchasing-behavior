@@ -45,10 +45,10 @@ Customer_Purchasing_Behavior/
 ## 📷 Visualizations  
 
 ### Monthly Revenue Trend  
-![Monthly Revenue](images/monthly_revenue_trend.png)  
+![Monthly Revenue](monthly_revenue_trend.png)  
 
 ### Top 10 Products by Revenue  
-![Top Products](images/Top_10_by_revenue.png)  
+![Top Products](Top_10_by_revenue.png)  
 (images/Top_10_by_revenue(1).png)
 ---
 
