@@ -48,8 +48,8 @@ Customer_Purchasing_Behavior/
 ![Monthly Revenue](monthly_revenue_trend.png)  
 
 ### Top 10 Products by Revenue  
-![Top Products](Top_10_by_revenue.png)  
-(Top_10_by_revenue(1).png)
+![Top Products 1](Top_10_by_revenue.png)  
+![Top Products 2](Top_10_by_revenue(1).png)
 ---
 
 ## ▶️ How to Run This Project  
