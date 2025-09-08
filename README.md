@@ -59,7 +59,7 @@ The goals of this project are:
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/<your-username>/customer-purchasing-behavior.git
+git clone https://github.com/harshithaadicherla10/customer-purchasing-behavior/tree/main.git
 cd customer-purchasing-behavior
 ```
 ### 2. Create a virtual environment (optional)
