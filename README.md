@@ -49,7 +49,7 @@ Customer_Purchasing_Behavior/
 
 ### Top 10 Products by Revenue  
 ![Top Products](Top_10_by_revenue.png)  
-(images/Top_10_by_revenue(1).png)
+(Top_10_by_revenue(1).png)
 ---
 
 ## ▶️ How to Run This Project  
