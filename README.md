@@ -79,3 +79,11 @@ data/Online Retail.xlsx
 ```
 jupyter notebook customer_purchasing_behaviour.ipynb
 ```
+
+## 🚀 Future Improvements
+- Perform Cohort Analysis for customer retention insights
+- Build a Customer Lifetime Value (CLV) model
+- Apply Machine Learning for predictive customer segmentation
+
+## 🙋 Author
+**Harshitha Adicherla**
